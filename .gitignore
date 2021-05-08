@@ -1,0 +1,4 @@
+/downloads
+.ipynb_checkpoints
+.*
+!/.gitignore
