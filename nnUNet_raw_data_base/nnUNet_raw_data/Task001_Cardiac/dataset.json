@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "labels": {
+        "0": "background",
+        "1": "LV",
+        "2": "MYO",
+        "3": "RV"
+    },
+    "licence": "hands off!",
+    "modality": {
+        "0": "T",
+        "1": "1"
+    },
+    "name": "cardiac-M&M",
+    "numTest": 0,
+    "numTraining": 20,
+    "reference": "",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [],
+    "training": [
+        {
+            "image": "./imagesTr/ED-A6M1Q7.nii.gz",
+            "label": "./labelsTr/ED-A6M1Q7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-A8E1F4.nii.gz",
+            "label": "./labelsTr/ED-A8E1F4.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-A9E3G9.nii.gz",
+            "label": "./labelsTr/ED-A9E3G9.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-A9J5Q7.nii.gz",
+            "label": "./labelsTr/ED-A9J5Q7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-G4L8Z7.nii.gz",
+            "label": "./labelsTr/ED-G4L8Z7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-H7N4V9.nii.gz",
+            "label": "./labelsTr/ED-H7N4V9.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-K5L2U3.nii.gz",
+            "label": "./labelsTr/ED-K5L2U3.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-L4Q2U3.nii.gz",
+            "label": "./labelsTr/ED-L4Q2U3.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-M2P1R1.nii.gz",
+            "label": "./labelsTr/ED-M2P1R1.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ED-M4P7Q6.nii.gz",
+            "label": "./labelsTr/ED-M4P7Q6.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-A6M1Q7.nii.gz",
+            "label": "./labelsTr/ES-A6M1Q7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-A8E1F4.nii.gz",
+            "label": "./labelsTr/ES-A8E1F4.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-A9E3G9.nii.gz",
+            "label": "./labelsTr/ES-A9E3G9.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-A9J5Q7.nii.gz",
+            "label": "./labelsTr/ES-A9J5Q7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-G4L8Z7.nii.gz",
+            "label": "./labelsTr/ES-G4L8Z7.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-H7N4V9.nii.gz",
+            "label": "./labelsTr/ES-H7N4V9.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-K5L2U3.nii.gz",
+            "label": "./labelsTr/ES-K5L2U3.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-L4Q2U3.nii.gz",
+            "label": "./labelsTr/ES-L4Q2U3.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-M2P1R1.nii.gz",
+            "label": "./labelsTr/ES-M2P1R1.nii.gz"
+        },
+        {
+            "image": "./imagesTr/ES-M4P7Q6.nii.gz",
+            "label": "./labelsTr/ES-M4P7Q6.nii.gz"
+        }
+    ]
+}
